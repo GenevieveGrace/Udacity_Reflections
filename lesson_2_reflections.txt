@@ -1,9 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Creates .git file so that I can check commits in the future
-
+ 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Staging area is pre-req. to making commits. The repository shows a log of previous commits. The working directory shows a log of files.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
